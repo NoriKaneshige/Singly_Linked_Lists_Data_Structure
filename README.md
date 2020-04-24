@@ -15,7 +15,7 @@ class Node{
 ```
 
 > ## class method creation for Singly_Linked_List: :wink:
-// push(), pop(), shift(), unshift(), set(), insert(), remove(), reverse(), print() implementation
+> push(), pop(), shift(), unshift(), set(), insert(), remove(), reverse(), print() implementation
 
 ``` js
 class SinglyLinkedList{
